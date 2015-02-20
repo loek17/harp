@@ -34,7 +34,6 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "harp-orm/validate": "dev-master",
         "harp-orm/identity-map": "dev-master",
         "harp-orm/query": "dev-master",
         "harp-orm/serializer": "dev-master",
